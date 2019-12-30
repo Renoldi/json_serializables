@@ -10,3 +10,4 @@ flutter pub run build_runner watch or
 flutter pub run build_runner build
 in root project
 
+if folder .dart_tool/package_config.json not exist or deleted create then run command pub get
