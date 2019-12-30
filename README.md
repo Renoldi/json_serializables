@@ -1,8 +1,5 @@
-# testdata
-
-A new Flutter project.
-
-## Getting Started
+# json_serializables
+ 
 # json_serializables
 
 to build json_serializables run those commands
