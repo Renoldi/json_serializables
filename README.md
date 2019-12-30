@@ -1,6 +1,4 @@
-# json_serializables
- 
-# json_serializables
+# json_serializables 
 
 to build json_serializables run those commands
 flutter pub run build_runner watch or
