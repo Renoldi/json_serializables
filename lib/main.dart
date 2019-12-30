@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:testdata/address.dart';
-import 'package:testdata/user.dart';
+import 'package:testdata/models/address.dart';
+import 'package:testdata/models/user.dart';
 
 void main() => runApp(MyApp());
 
